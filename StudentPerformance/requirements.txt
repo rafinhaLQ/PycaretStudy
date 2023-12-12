@@ -1,0 +1,5 @@
+
+pycaret
+fastapi
+uvicorn
+pydantic==1.10.0
